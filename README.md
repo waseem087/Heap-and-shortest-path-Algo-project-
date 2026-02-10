@@ -122,7 +122,7 @@ For Fibonacci and Hollow heaps record:
 
 ---
 
-## 🗂️ Code Requirements
+## Code Requirements
 
 * Three graph datasets are provided.
 * Program must:
