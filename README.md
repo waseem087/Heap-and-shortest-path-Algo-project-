@@ -188,7 +188,7 @@ For Fibonacci and Hollow heaps record:
 
 * Implement **parallel Dijkstra** (multi-source or multi-threaded).
 * Compare heap scalability under parallel workloads.
-* Add visualization of:
+* Add visualization of: 
 
   * heap height evolution
   * root list changes during execution.
