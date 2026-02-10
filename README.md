@@ -96,7 +96,7 @@ For Fibonacci and Hollow heaps record:
 
 ---
 
-## 📈 Metrics to Record
+##  Metrics to Record
 
 | Metric                  | Binary Heap | Fibonacci Heap | Hollow Heap |
 | ----------------------- | ----------- | -------------- | ----------- |
