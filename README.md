@@ -73,7 +73,7 @@ Each heap must support:
 
 ---
 
-## 📊 Performance Measurement
+##  Performance Measurement
 
 ### Execution Metrics
 
