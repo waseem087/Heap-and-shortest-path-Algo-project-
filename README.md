@@ -54,7 +54,7 @@ This project simulates that environment to determine the most efficient heap str
 
 ---
 
-## ⚙️ Implementation Requirements
+##  Implementation Requirements
 
 ### Heap Operations
 
