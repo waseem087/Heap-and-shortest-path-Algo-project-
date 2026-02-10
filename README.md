@@ -125,7 +125,7 @@ For Fibonacci and Hollow heaps record:
 ## Code Requirements
 
 * Three graph datasets are provided.
-* Program must:
+* Program must: 
 
   1. Prompt user to select a dataset file.
   2. Load and process graph data.
