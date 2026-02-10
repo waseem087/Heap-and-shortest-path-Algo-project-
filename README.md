@@ -135,7 +135,7 @@ For Fibonacci and Hollow heaps record:
 
 ---
 
-## 📦 Deliverables
+##  Deliverables
 
 * Source code for:
 
@@ -155,7 +155,7 @@ For Fibonacci and Hollow heaps record:
 
 ---
 
-## 📝 Report Outline
+##  Report Outline
 
 ### 1. Theoretical Overview
 
@@ -184,7 +184,7 @@ For Fibonacci and Hollow heaps record:
 
 ---
 
-## 🚀 Bonus Challenges
+##  Bonus Challenges
 
 * Implement **parallel Dijkstra** (multi-source or multi-threaded).
 * Compare heap scalability under parallel workloads.
@@ -195,7 +195,7 @@ For Fibonacci and Hollow heaps record:
 
 ---
 
-## 🛠️ Technologies Suggested
+##  Technologies Suggested
 
 * C / C++ / Java / Python
 * STL restricted (for heap logic)
@@ -204,7 +204,7 @@ For Fibonacci and Hollow heaps record:
 
 ---
 
-## 📄 License
+##  License
 
 This project is for academic and research purposes.
 # Heap-and-shortest-path-Algo-project-
