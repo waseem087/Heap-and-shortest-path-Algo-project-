@@ -96,21 +96,9 @@ For Fibonacci and Hollow heaps record:
 
 ---
 
-##  Metrics to Record
 
-| Metric                  | Binary Heap | Fibonacci Heap | Hollow Heap |
-| ----------------------- | ----------- | -------------- | ----------- |
-| Insert Time (avg)       |             |                |             |
-| Extract-Min Time (avg)  |             |                |             |
-| Decrease-Key Time (avg) |             |                |             |
-| Total Runtime (ms)      |             |                |             |
-| Heap Height             |             |                |             |
-| Number of Trees         |             |                |             |
-| Memory Usage (MB)       |             |                |             |
 
----
-
-## 🧪 Sample Experiments
+##  Sample Experiments
 
 ### Experiment A — Static Routing
 
@@ -124,7 +112,7 @@ For Fibonacci and Hollow heaps record:
 
 ---
 
-## 📑 Example Output (Sample)
+##  Example Output (Sample)
 
 | Heap      | Nodes | Edges  | Insert (μs) | Extract-Min (μs) | Decrease-Key (μs) | Total Runtime (s) | Height | #Trees | Memory |
 | --------- | ----- | ------ | ----------- | ---------------- | ----------------- | ----------------- | ------ | ------ | ------ |
